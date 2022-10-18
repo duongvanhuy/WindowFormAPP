@@ -1,0 +1,17 @@
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\bin\Debug\net6.0-windows\WinForms.App.Desktop.exe
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\bin\Debug\net6.0-windows\WinForms.App.Desktop.deps.json
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\bin\Debug\net6.0-windows\WinForms.App.Desktop.runtimeconfig.json
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\bin\Debug\net6.0-windows\WinForms.App.Desktop.dll
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\bin\Debug\net6.0-windows\WinForms.App.Desktop.pdb
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.csproj.AssemblyReference.cache
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.Form1.resources
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.csproj.GenerateResource.cache
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.AssemblyInfoInputs.cache
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.AssemblyInfo.cs
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.csproj.CoreCompileInputs.cache
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.dll
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\refint\WinForms.App.Desktop.dll
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.pdb
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.genruntimeconfig.cache
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\ref\WinForms.App.Desktop.dll
