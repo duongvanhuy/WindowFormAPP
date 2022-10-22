@@ -40,6 +40,7 @@
             this.btnChia = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.lblKetQua = new System.Windows.Forms.Label();
+            this.lblTacGia = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // label1
@@ -139,11 +140,24 @@
             this.lblKetQua.TabIndex = 10;
             this.lblKetQua.Text = "0";
             // 
+            // lblTacGia
+            // 
+            this.lblTacGia.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblTacGia.AutoSize = true;
+            this.lblTacGia.Location = new System.Drawing.Point(699, 404);
+            this.lblTacGia.Name = "lblTacGia";
+            this.lblTacGia.Size = new System.Drawing.Size(55, 20);
+            this.lblTacGia.TabIndex = 11;
+            this.lblTacGia.TabStop = true;
+            this.lblTacGia.Text = "Tác giả";
+            this.lblTacGia.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lblTacGia_LinkClicked);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(826, 450);
+            this.Controls.Add(this.lblTacGia);
             this.Controls.Add(this.lblKetQua);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.btnChia);
@@ -178,5 +192,6 @@
         private Button btnChia;
         private Label label4;
         private Label lblKetQua;
+        private LinkLabel lblTacGia;
     }
 }

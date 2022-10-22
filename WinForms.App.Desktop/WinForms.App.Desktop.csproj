@@ -6,6 +6,19 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>mac-os.png</PackageIcon>
+    <ApplicationIcon>discord_logo_icon_229279.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="discord_logo_icon_229279.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Flutter\do-an\app-trac-nghiem\apptracnghiem\assets\icon\mac-os.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

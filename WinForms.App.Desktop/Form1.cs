@@ -57,5 +57,11 @@
 
             }
         }
+
+        private void lblTacGia_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            var f = new Author();
+            f.ShowDialog();
+        }
     }
 }
