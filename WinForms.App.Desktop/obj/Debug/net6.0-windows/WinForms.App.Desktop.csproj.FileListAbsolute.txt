@@ -18,3 +18,6 @@ E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-window
 E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.Author.resources
 E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.ClockForm.resources
 E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.SettingForm.resources
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.Properties.Resources.resources
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.SliderForm.resources
+E:\MonHoc-PXU\Netcore\WindowFormAPP\WinForms.App.Desktop\obj\Debug\net6.0-windows\WinForms.App.Desktop.CaroselForm.resources
